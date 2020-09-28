@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "985348594376",
+    "firebase_url": "https://telegrem-22394.firebaseio.com",
+    "project_id": "telegrem-22394",
+    "storage_bucket": "telegrem-22394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985348594376:android:54f17642a0e951804363fd",
+        "android_client_info": {
+          "package_name": "com.kabobchi.telegrem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985348594376-samb7rheh9861s949tu4i1stot28r8sr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABCA65Cg2qpF87mOSHa2xEPF-5snoZA20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985348594376-samb7rheh9861s949tu4i1stot28r8sr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"  >
+
+
+    <Button
+        android:id="@+id/Button01"
+        android:layout_width="252dp"
+        android:background="#F4E87F"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:text="САРИҚ(ОҚ) УЗУМЛАР" />
+
+    <Button
+        android:id="@+id/Button04"
+        android:layout_width="252dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#CD5151"
+        android:text="ҚИЗИЛ УЗУМЛАР" />
+    <Button
+        android:id="@+id/Button05"
+        android:layout_width="252dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#281C39"
+        android:textColor="#ffffff"
+
+        android:text="ҚОРА УЗУМЛАР" />
+    <Button
+        android:id="@+id/Button06"
+        android:layout_width="252dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:background="#ffffff"
+        android:text="НОЁБ УЗУМЛАР" />
+
+    <ImageView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="269dp" />
+
+
+</LinearLayout>
